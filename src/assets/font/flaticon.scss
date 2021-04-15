@@ -1,0 +1,37 @@
+$flaticon-font: "flaticon";
+
+@font-face {
+    font-family: $flaticon-font;
+    src: url("./flaticon.ttf?d7a3ec09f7bb97bcc556a17ffa401c3b") format("truetype"),
+url("./flaticon.woff?d7a3ec09f7bb97bcc556a17ffa401c3b") format("woff"),
+url("./flaticon.woff2?d7a3ec09f7bb97bcc556a17ffa401c3b") format("woff2"),
+url("./flaticon.eot?d7a3ec09f7bb97bcc556a17ffa401c3b#iefix") format("embedded-opentype"),
+url("./flaticon.svg?d7a3ec09f7bb97bcc556a17ffa401c3b#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon-map: (
+    "chip": "\f101",
+    "cyborg": "\f102",
+    "neuron": "\f103",
+);
+
+.flaticon-chip:before {
+    content: map-get($flaticon-map, "chip");
+}
+.flaticon-cyborg:before {
+    content: map-get($flaticon-map, "cyborg");
+}
+.flaticon-neuron:before {
+    content: map-get($flaticon-map, "neuron");
+}
