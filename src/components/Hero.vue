@@ -6,7 +6,7 @@
                     <div class="col-xl-4 col-lg-6 col-md-9 col-sm-11">
                         <div class="hero-text offset-left">
                             <span class="title-tag wow fadeInLeft anim1" data-wow-delay="300ms" style="visibility: visible; animation-delay: 300ms; animation-name: fadeInLeft;">Get Your Data Analized</span>
-                            <h2 class="title wow fadeInLeft anim1" data-wow-delay="700ms" style="visibility: visible; animation-delay: 700ms; animation-name: fadeInLeft;">
+                            <h2 class="title wow fadeInLeft anim1" data-wow-delay="700ms" style="visibility: visible; animation-delay: 700ms; animation-name: fadeInLeft">
                                 Turn <span class="emphasis">data</span> into insight with survey reports
                             </h2>
                             <div class="subscription-form wow fadeInUp anim1" data-wow-delay="700ms" style="visibility: visible; animation-delay: 700ms; animation-name: fadeInUp;">
