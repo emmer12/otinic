@@ -2,7 +2,6 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/otinjtvy/public_html/
-    - /bin/cp /dist/* $DEPLOYPATH
-    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp -R /dist/* $DEPLOYPATH
 
     
