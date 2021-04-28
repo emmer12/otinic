@@ -16,7 +16,7 @@
               </div>
               <h4>DATA COLLECTION</h4>
               <p>
-                we collect data for organisati  ons and individuals in the area of interest .we are involved in both qualitative and quantitative data collection, with us you are sure of integrity of the process of the process ,reduced likelihood of errors of errors ,all view angle data for decision making, save of cost and time. 
+                We collect data for organisations and individuals in the area of interest, we are involved in both qualitative and quantitative data collection, with us you are sure of integrity of the process ,reduced likelihood of errors ,collective data for decision making, save of cost and time. 
               </p>
             </div>
           </div>
@@ -41,7 +41,7 @@
               </div>
               <h4>TRAINING  ON DATA  ANALYSIS</h4>
               <p>
-                aspiring analysts and anyone that uses data .our training   courses equip participants with time saving skills  and techniques to go from data to actionable insights information in the shortest possible time ,towards achieving the organisations objectives.
+                Aspiring analysts and anyone that uses data can now get trained. Our training courses equip participants with time saving skills  and techniques to go from data to actionable insights information in the shortest possible time ,towards achieving the organisations objectives.
               </p>
             </div>
           </div>

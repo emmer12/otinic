@@ -8,7 +8,7 @@
             <h1>We Provide Quality Data analysis</h1>
             <p>
              Otinic services is a data collection and data analytics firm, registered with Federal Government of Nigeria (RC:2498970) on the 12th of october 2017.
-We have helped top organisations such as   World Bank to collect data as part of the enumerator team in the YESSO Program in Nigeria.
+We have helped top organisations such as World Bank to collect data as part of the enumeratoration team in the YESSO Program in Nigeria.
             </p>
             <p>
               At Otinic services we help collect data for organisations,companies  and individuals then transform the data using our data analytic technologies into viable information that help decision making.
@@ -57,7 +57,11 @@ We have helped top organisations such as   World Bank to collect data as part of
             <transition v-bind:css="false" appear @enter="enter" @leave="leave" mode="out-in">
               <div class="tab-content-1" v-show="activeTab === 2">
                 <p>
-                  global impact
+                  Think like customers, act like owners challenge conventionals.
+                  Challenge conventional wiisdom.
+                  Take action and deliver results.
+                  Great people do great things.
+                  We only win as One Fuze 
                 </p>
               </div>
             </transition>

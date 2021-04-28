@@ -2,14 +2,14 @@
   <div class="nav-container">
     <div class="top-section">
       <ul>
-        <li><a href="#">Welcome to Otinics</a></li>
-        <li><a href="tel:+2347017587192">07017587192</a></li>
-        <li><a href="mailto:otinic@mail.com">otinic@mail.com</a></li>
+        <li><a href="#">Welcome to Otinic</a></li>
+        <li><a href="tel:+2348030634841">+2348030634841</a></li>
+        <li><a href="mailto:info@otinic.com">info@otinic.com</a></li>
       </ul>
     </div>
     <div class="bottom-section " :class="{added:sticky}">
       <div class="logo">
-        <h2><img src="logo.jpg" alt="Otinic Logo" /> </h2>
+        <h2><img src="./../assets/images/logo.jpg" alt="Otinic Logo" /> </h2>
       </div>
 
       <div class="left">
@@ -18,13 +18,13 @@
 
           <li class="active"><a href="">Home</a></li>
           <li @click="scrollNow('about')"><a>About</a></li>
-          <li @click="scrollNow('service')"><a>Service</a></li>
+          <li @click="scrollNow('service')"><a>Services</a></li>
           <li @click="scrollNow('contact')"><a>Contact</a></li>
         </ul>
       </div>
 
       <div class="action-area">
-        <button class="btn btn-custom bg">Get A Quote</button>
+        <button class="btn btn-custom bg"><a style="color:#fff" target="_blank" href="https://api.whatsapp.com/send?phone=+2348030634841">Get A Quote</a></button>
       </div>
 
       <div class="bar" @click="toggleOpen" v-show="!open">
@@ -37,7 +37,7 @@
           <clipPath id="clip">
             <circle
               class="one"
-              cx="200"
+              cx="400"
               cy="600"
               r="700"
               transform="scale(0)"
@@ -48,7 +48,7 @@
     </div>
     <div class="sidebar">
       <div class="s-logo">
-        <div class="logo"><img src="logo.jpg" alt="Otinic Logo" /></div>
+        <div class="logo"><img src="./../assets/images/logo.jpg" alt="Otinic Logo" /></div>
         <div class="cancel" @click="closeed">
           <svg width="24" height="24" fill="currentColor" class="bi bi-x-square" viewBox="0 0 16 16">
                 <path d="M14 1a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1h12zM2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2z"/>
@@ -59,7 +59,7 @@
         <ul>
           <li class="active"><a href="">Home</a></li>
           <li @click="scrollNow('about')"><a>About</a></li>
-          <li @click="scrollNow('service')"><a>Service</a></li>
+          <li @click="scrollNow('service')"><a>Services</a></li>
           <li @click="scrollNow('contact')"><a>Contact</a></li>
         </ul>
     </div>
@@ -188,6 +188,7 @@ export default {
         font-weight: 500;
         position: relative;
         padding: 0px 10px;
+        cursor:pointer;
         &.active a {
           color: #277eff;
           font-weight: 700;

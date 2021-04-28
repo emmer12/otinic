@@ -10,7 +10,7 @@
                                 Turn <span class="emphasis">data</span> into insight with survey reports
                             </h2>
                             <div class="subscription-form wow fadeInUp anim1" data-wow-delay="700ms" style="visibility: visible; animation-delay: 700ms; animation-name: fadeInUp;">
-                                    <button class="btn btn-custom bg" type="submit">Get in Touch</button>
+                                    <button class="btn btn-custom bg" type="submit"><a style="color:#fff" target="_blank" href="https://api.whatsapp.com/send?phone=+2348030634841">Get in Touch</a> </button>
                             </div>
                         </div>
                     </div>

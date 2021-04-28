@@ -4,7 +4,7 @@
       <div class="container">
         <div class="header left dark">
           <h2>About us</h2>
-          <h1>Industies we are transforming with our awesome solitions</h1>
+          <h1>Industries we are transforming with our awesome solutions</h1>
         </div>
         <div class="row">
           <div class="col-md-4">
