@@ -126,7 +126,7 @@
                   />
                 </svg>
               </div>
-              <a>Education</a>
+              <a>Education </a>
             </div>
           </div>
         </div>
