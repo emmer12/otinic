@@ -2,6 +2,7 @@
 <template>
   <section class="services" id='service'>
     <div class="header">
+      <h2>Service</h2>
       <h1>What we do</h1>
     </div>
 
